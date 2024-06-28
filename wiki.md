@@ -5,7 +5,7 @@ beyonce@example.com | +1 (123) 456-7890
 
 ---
 
-![Beyoncé Image]([https://example.com/beyonce.jpg](https://ew.com/thmb/KwEUTPBILbT0l1advpyDY-v9ep4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/beyonce-asking-fans-to-wear-chrome-082323-601e13804c084ad79be61543a67e0407.jpg))
+![Beyoncé Image]([https://example.com/beyonce.jpg](https://ew.com/thmb/KwEUTPBILbT0l1advpyDY-v9ep4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/beyonce-asking-fans-to-wear-chrome-082323-601e13804c084ad79be61543a67e0407.jpg)])
 
 ---
 
